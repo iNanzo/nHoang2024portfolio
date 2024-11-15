@@ -49,9 +49,9 @@ const labelsThird = [
 function Expertise() {
     return (
     <div className="container" id="expertise">
-        <div className="skills-container">
+        <div className="expertise-container">
             <h1>Expertise</h1>
-            <div className="skills-grid">
+            <div className="expertise-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Full Stack Web Development</h3>
