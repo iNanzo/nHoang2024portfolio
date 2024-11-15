@@ -15,7 +15,7 @@ code {
 
 .main-container {
   position: relative;
-  background-color: #0d1116;
+  background-color: #202020;
 
 }
 
@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #5000ca;
+  color: white;
   transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
@@ -35,7 +35,7 @@ p, a, h1, h2, h3, h4, h5, label, button {
 
 .navigation-bar {
   justify-content: space-between;
-  background-color: #0d1116;
+  background-color: #202020;
 
   button {
     font-size: 1.1rem;
@@ -51,7 +51,7 @@ p, a, h1, h2, h3, h4, h5, label, button {
 
 .navigation-bar-responsive {
   span, p {
-    color: #0d1116;
+    color: #202020;
     font-family: "Lato", sans-serif;
   }
 }
@@ -100,16 +100,16 @@ p, a, h1, h2, h3, h4, h5, label, button {
   }
 
   p, a, h1, h2, h3, h4, h5, label, button {
-    color: #0d1116;
+    color: #202020;
   }
 
   a:hover {
-    color: #5000ca;
+    color: white;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
   }
 
   .navigation-bar svg {
-    color: #0d1116;
+    color: #202020;
   }
 
   .about-section {
@@ -117,7 +117,7 @@ p, a, h1, h2, h3, h4, h5, label, button {
   }
 
   .expertise-container svg {
-    color: #0d1116;
+    color: #202020;
   }
 
   .chip {
@@ -142,7 +142,7 @@ p, a, h1, h2, h3, h4, h5, label, button {
   }
 
   .flex-chips .chip-title {
-    color: #0d1116;
+    color: #202020;
   }
 }
 
